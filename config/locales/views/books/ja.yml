@@ -1,0 +1,14 @@
+ja:
+  books:
+    books: 本の一覧
+    title: タイトル
+    memo: メモ
+    author: 著者
+    picture: 画像
+    show: 詳細
+    edit: 修正する
+    destroy: 削除する
+    confirm: 削除してよろしいでしょうか？
+    new: 登録する
+    editing_book: 本の登録データの修正
+    back: 戻る
